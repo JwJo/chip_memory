@@ -9,3 +9,7 @@ PC计数器：program counter,存储内存中下一条指令所在的地址，�
 
 “向量”的意思就是跳转到哪个地址，所以这里的“复位向量”就是指单片机复位之后会程序指针跳转的哪个地址，通常是0x00地址。
 与此类似的还有“中断向量”，指的是中断发生后，程序指针会跳转到哪个地址
+
+Data Memory：RAM
+
+Falsh Memory 和 Data EEPROM Memory：ROM
